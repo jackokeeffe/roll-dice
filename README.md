@@ -4,7 +4,9 @@ A simple program which simulates rolling a die/dice using the random module in P
 ## Rolling Dice How-To:
 1. Copy code into any IDE supporting Python.
 2. The random module should automatically be imported through the 'import random' statement.
-3. Run code, it will automatically roll the first dice, you can than select if you would like to roll again.
+3. Run code, it will give you the option to roll one or two dice. This must be answered as an integer (1 to roll one dice, 2 to roll two dice).
+4. After selecting what to roll, the program will automatically roll the die/dice.
+5. After it has rolled you can than select if you would like to roll again.
 - For the question that contains (y/n), answer using y or n. y = Yes, n = No.
 
 ## Contributing:
